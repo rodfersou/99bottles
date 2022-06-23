@@ -19,3 +19,11 @@ jupyterlite-xeus-wren==0.2.1
 jupyterlite-xeus-sqlite==0.2.1
 plotly>=5,<6
 theme-darcula
+isort
+black
+jupyterlab-code-formatter
+pytest
+ipytest
+assertpy
+factory_boy
+nb-mermaid
